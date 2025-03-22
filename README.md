@@ -5,6 +5,7 @@ A Telegram bot to download media from TikTok, Instagram, YouTube, and LinkedIn w
 [![Telegram Bot](https://img.shields.io/badge/Telegram-%40dwnloadybot-blue)](https://t.me/dwnloadybot)
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-green)
 
+![Image](https://github.com/user-attachments/assets/c7df6fc6-ef11-4742-8230-0bdd3e22297e)
 Art by **Ramazan Zainurainov**
 
 ## Features ✨
