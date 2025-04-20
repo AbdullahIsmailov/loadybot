@@ -1,6 +1,6 @@
 # Loady - Social Media Downloader Bot 🤖
 
-A Telegram bot to download media from TikTok, Instagram, YouTube, and LinkedIn without watermarks!
+A Telegram-bot to download media from TikTok, Instagram, YouTube, and LinkedIn without watermarks!
 
 [![Telegram Bot](https://img.shields.io/badge/Telegram-%40dwnloadybot-blue)](https://t.me/dwnloadybot)
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-green)
